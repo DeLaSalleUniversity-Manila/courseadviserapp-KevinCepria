@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">CourseAdviser</string>
+    <string name="find_course">Display Courses To Be Taken</string>
+    <string name="courses"></string>
+    <string name="action_settings">Settings</string>
+    <string name="course_offering">Please choose the term:</string>
+
+    <string-array name="terms">
+        <item>1st term</item>
+        <item>2nd term</item>
+        <item>3rd term</item>
+        <item>4th term</item>
+        <item>5th term</item>
+        <item>6th term</item>
+    </string-array>
+
+</resources>
